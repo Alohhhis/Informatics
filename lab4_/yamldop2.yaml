@@ -1,0 +1,42 @@
+dayName: Tuesday
+lectures:
+- classroom: ''
+  location: ''
+  subject: 'Fundamentals of professional activity(lection): ZOOM'
+  teacher: Klimenkov Sergey Viktorovich
+  time: 10:00-11:30
+  type: Distant
+  weekInfo: ''
+  weeks:
+  - 5
+- classroom: ''
+  location: Lomonosova 9M
+  subject: 'Fundamentals of professional activity(lection): ZOOM'
+  teacher: Klimenkov Sergey Viktorovich
+  time: 10:00-11:30
+  type: internal - distant
+  weekInfo: ''
+  weeks:
+  - 3
+  - 7
+  - 9
+  - 11
+  - 13
+  - 15
+  - 17
+- classroom: 1124 aud.
+  location: Lomonosova 9M
+  subject: Programming(lec)
+  teacher: Pismak Alexey Evgenievich
+  time: 10:00-11:30
+  type: internal - distant
+  weekInfo: even week
+  weeks:
+  - 2
+  - 4
+  - 6
+  - 8
+  - 10
+  - 12
+  - 14
+  - 16

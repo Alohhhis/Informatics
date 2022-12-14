@@ -1,0 +1,35 @@
+{
+	"dayName" : "Tuesday",
+	"lectures" : [
+		{
+			"time" : "10:00-11:30",
+			"weeks" : [5],
+			"weekInfo" : "",
+			"classroom" : "",
+			"location" : "",
+			"subject" : "Fundamentals of professional activity(lection): ZOOM",
+			"teacher" : "Klimenkov Sergey Viktorovich",
+			"type" : "Distant"
+		},
+		{
+			"time" : "10:00-11:30",
+			"weeks" : [3, 7, 9, 11, 13, 15, 17],
+			"weekInfo" : "",
+			"classroom" : "",
+			"location" : "Lomonosova 9M",
+			"subject" : "Fundamentals of professional activity(lection): ZOOM",
+			"teacher" : "Klimenkov Sergey Viktorovich",
+			"type" : "internal - distant"
+		},
+		{
+			"time" : "10:00-11:30",
+			"weeks" : [2, 4, 6, 8, 10, 12, 14, 16],
+			"weekInfo" : "even week",
+			"classroom" : "1124 aud.",
+			"location" : "Lomonosova 9M",
+			"subject" : "Programming(lec)",
+			"teacher" : "Pismak Alexey Evgenievich",
+			"type" : "internal - distant"
+		}
+	]
+}
